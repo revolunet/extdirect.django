@@ -1,4 +1,4 @@
-extdirect.django
+extdirect.django : DEPRECATED
 ====
 
 extdirect.django allows you to generate ExtJS components from your django models using ExtDirect api
